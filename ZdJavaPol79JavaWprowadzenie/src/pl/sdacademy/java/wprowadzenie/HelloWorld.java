@@ -8,5 +8,8 @@ public class HelloWorld {
 
         greetings = "Witaj!";
         System.out.println(greetings);
+
+        greetings = "Hi!";
+        System.out.println(greetings);
     }
 }
